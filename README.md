@@ -18,8 +18,13 @@
    ### 4.2 why cloud security matters
    ### 4.3 cloud security includes
 ## 5. identity and access management (IAM)
-## 6.  cloud network security
-## 7.cloud application security
+   ### 5.1 defination 
+   ### 5.2 why it is important
+   ### 5.3 IAM includes
+   ### 5.4 
+  
+## 6. cloud network security
+## 7. cloud application security
 ## 8. data security and encryption
 ## 9. threat detectioon and monitoring
 ## 10. complience and governance
