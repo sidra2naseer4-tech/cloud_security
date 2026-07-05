@@ -29,11 +29,27 @@
    ### 5.4 Multifactor authentication
    ### 5.5 Authorized vs unauthorized
    ### 5.6 Hands-On: Creating Users, Roles & Policies
-## 6. cloud network security
-   ### 6.1 Virtual Private Cloud (VPC) — What it is and why it matters
-   ### 6.2 Subnets, Firewalls & Security Groups
-   ### 6.3 Zero Trust Network Access
-   ### 6.4 Common Network Attacks in the Cloud
+## 6. Network Fundamentals & Cloud Network Security
+   ### 6.1 What is a Network?
+   ### 6.2 The OSI Model — 7 Layers Explained Simply
+   ### 6.3 How Data Flows Through the OSI Layers
+   ### 6.4 TCP/IP Model — How the Internet Actually Works
+   ### 6.5 IP Addressing — IPv4, IPv6 & Subnetting Basics
+   ### 6.6 Key Protocols Every Security Person Must Know
+   - HTTP / HTTPS
+   - DNS
+   - FTP / SFTP
+   - SSH
+   - SMTP
+   ### 6.7 Ports & How Attackers Use Them
+   ### 6.8 How Data Packets Travel — From Your Device to the Cloud
+   ### 6.9 Virtual Private Cloud (VPC) — What it is and why it matters
+   ### 6.10 Subnets, Firewalls & Security Groups
+   ### 6.11 Zero Trust Network Access
+   ### 6.12 DDoS Attacks & Cloud Defense
+   ### 6.13 Network Monitoring & Intrusion Detection (IDS/IPS)
+   ### 6.14 Common Network Attacks in the Cloud
+   ### 6.15 Hands-On: Using Wireshark to See Real Network Traffic
 ## 7. cloud application security
    ### 7.1 What is Application Security?
    ### 7.2 Securing APIs
@@ -47,7 +63,7 @@
    ### 8.4 Database Security
    ### 8.5 Secrets & Credentials Management
 ## 9. threat detection and monitoring
- ### 9.1 What is Threat Detection? Threat Hunting Basics
+   ### 9.1 What is Threat Detection? Threat Hunting Basics
    ### 9.2 Cloud Monitoring Tools (CloudTrail, Azure Monitor)
    ### 9.3 Introduction to ELK Stack (Elasticsearch, Logstash, Kibana)
    ### 9.4 Elasticsearch — Searching & Indexing Logs
