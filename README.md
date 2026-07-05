@@ -1,6 +1,6 @@
 # **cloudsecurity_roadmap**
 ## 1. What is cloud?
-  ### 1.1 Defination
+  ### 1.1 Definition
   ### 1.2 Types of cloud
   ### 1.3 How it works
   ### 1.4 Cloud vs traditional architecture
@@ -14,12 +14,14 @@
    ### 2.4 Setting up free cloud account
    ### 2.5 Cloud console
    ### 2.6 Cloud shell
+   ### 2.7 Billing, Free Tier Limits & Setting Cost Alerts
 ## 3. cloud providers
    ### 3.1 Amazon web services (AWS)
    ### 3.2 Microsoft azure
    ### 3.3 Google cloud provider (GCP)
+   ### 3.4 Which Provider Should I Start With? (AWS vs Azure vs GCP)
   ## 4. Cloud security
-   ### 4.1 Defination
+   ### 4.1 Definition
    ### 4.2 Why cloud security matters
    ### 4.3 Key Areas of Cloud Security
 ## 5. Cloud identity and access management (IAM)
@@ -63,7 +65,7 @@
    ### 8.4 Database Security
    ### 8.5 Secrets & Credentials Management
 ## 9. threat detection and monitoring
-   ### 9.1 What is Threat Detection? Threat Hunting Basics
+   ### 9.1 What is Threat Detection?
    ### 9.2 Cloud Monitoring Tools (CloudTrail, Azure Monitor)
    ### 9.3 Introduction to ELK Stack (Elasticsearch, Logstash, Kibana)
    ### 9.4 Elasticsearch — Searching & Indexing Logs
